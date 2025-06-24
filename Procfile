@@ -1,1 +1,1 @@
-web: npm run dev
+worker: npm install && npm run build && npm run dev
