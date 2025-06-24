@@ -2,7 +2,7 @@
   "openapi": "3.0.0",
   "info": {
     "version": "nextjs",
-    "title": "Shiina-Api's",
+    "title": "Nasir-Api's",
     "description": "Hello World",
     "contact": {
       "name": "Source Code",
@@ -64,7 +64,7 @@
           {
             "name": "url",
             "in": "query",
-            "description": "`Try Paste Tiktok Url`",
+            "description": "Paste Url Tiktok",
             "required": false,
             "schema": {
               "type": "string",
